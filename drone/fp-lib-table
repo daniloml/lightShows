@@ -1,3 +1,5 @@
 (fp_lib_table
   (lib (name MCU_RaspberryPi_and_Boards)(type KiCad)(uri "D:/Jupyter Notebooks/Sistemas Basados/lightShows/libs/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name NEO-M8P-2)(type KiCad)(uri "D:/Jupyter Notebooks/Sistemas Basados/lightShows/libs/NEO-M8P-2")(options "")(descr ""))
+  (lib (name XCVR_RN2903-I)(type KiCad)(uri "D:/Jupyter Notebooks/Sistemas Basados/lightShows/libs/RN2903-I_RM095/XCVR_RN2903-I")(options "")(descr ""))
 )

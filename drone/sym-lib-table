@@ -1,3 +1,5 @@
 (sym_lib_table
   (lib (name MCU_RaspberryPi_and_Boards)(type Legacy)(uri "D:/Jupyter Notebooks/Sistemas Basados/lightShows/libs/MCU_RaspberryPi_and_Boards.lib")(options "")(descr ""))
+  (lib (name RN2903-I_RM095)(type Legacy)(uri "D:/Jupyter Notebooks/Sistemas Basados/lightShows/libs/RN2903-I_RM095/RN2903-I_RM095.lib")(options "")(descr ""))
+  (lib (name NEO-M8P-2)(type Legacy)(uri "D:/Jupyter Notebooks/Sistemas Basados/lightShows/libs/NEO-M8P-2/NEO-M8P-2.lib")(options "")(descr ""))
 )
